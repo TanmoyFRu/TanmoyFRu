@@ -93,7 +93,7 @@ With a strong foundation in ResNet architectures and DevOps practices, I focus o
 
 <div align="center">
 
-<img src="profile-3d-contrib/profile-night-green-animate.svg" alt="3D Contribution Graph" />
+<img src="https://raw.githubusercontent.com/TanmoyFRu/TanmoyFRu/main/profile-3d-contrib/profile-night-green-animate.svg" alt="3D Contribution Graph" />
 
 </div>
 
