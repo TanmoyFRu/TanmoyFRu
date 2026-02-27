@@ -75,25 +75,11 @@ With a strong foundation in ResNet architectures and DevOps practices, I focus o
 
 ---
 
-### Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanmoyFRu/TanmoyFRu/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanmoyFRu/TanmoyFRu/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/TanmoyFRu/TanmoyFRu/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 ### 3D Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TanmoyFRu/TanmoyFRu/main/profile-3d-contrib/profile-night-green-animate.svg" alt="3D Contribution Graph" />
+<img src="https://raw.githubusercontent.com/TanmoyFRu/TanmoyFRu/main/profile-green-animate.svg" alt="3D Contribution Graph" />
 
 </div>
 
