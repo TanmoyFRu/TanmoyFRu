@@ -35,10 +35,10 @@ With a strong foundation in ResNet architectures and DevOps practices, I focus o
 ### Current Focus
 
 ```text
->  Building Splitewise Alternative App
->  Learning Solidity & Smart Contracts
->  Exploring FastAPI, Poetry & Django
->  Strengthening Full-Stack skills
+>  Deepening system design & architecture
+>  Exploring blockchain & smart contracts
+>  Getting better at full-stack depth
+>  Understanding distributed systems
 ```
 
 </td>
