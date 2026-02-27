@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths-ignore:
-      - "profile-*.svg"
+      - "profile-3d-contrib/**"
 
 permissions:
   contents: write
