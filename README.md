@@ -89,6 +89,16 @@ With a strong foundation in ResNet architectures and DevOps practices, I focus o
 
 ---
 
+### 3D Contribution Graph
+
+<div align="center">
+
+<img src="profile-3d-contrib/profile-night-green-animate.svg" alt="3D Contribution Graph" />
+
+</div>
+
+---
+
 ### Stats
 
 <div align="center">
