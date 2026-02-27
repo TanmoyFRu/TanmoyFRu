@@ -98,7 +98,7 @@ With a strong foundation in ResNet architectures and DevOps practices, I focus o
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanmoyFRu&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=a1a1aa&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=a1a1aa" />
+<img src="https://streak-stats.demolab.com/?user=TanmoyFRu&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=a1a1aa&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=a1a1aa" />
 
 <br/>
 
