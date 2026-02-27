@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=140&section=header&text=Tanmoy%20Debnath&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=140&section=header&text=Tanmoy%20Debnath&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=68" width="100%" alt="header"/>
 
 <div align="center">
 
@@ -8,31 +8,26 @@
 
 <br/>
 
-<a href="https://github.com/TanmoyFRu"><img src="https://img.shields.io/github/followers/TanmoyFRu?logo=github&style=for-the-badge&color=0d1117&labelColor=0d1117&logoColor=22c55e" /></a>
-<a href="https://www.linkedin.com/in/tanmoy-dednath/"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=22c55e" /></a>
-<a href="mailto:tanmoydn2003@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=22c55e" /></a>
-<a href="https://www.facebook.com/tanmoy.debnath.9699523"><img src="https://img.shields.io/badge/-Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=22c55e" /></a>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://github.com/TanmoyFRu"><img src="https://img.shields.io/github/followers/TanmoyFRu?logo=github&style=for-the-badge&color=0d1117&labelColor=0d1117&logoColor=22c55e" alt="GitHub followers"/></a>
+  <a href="https://www.linkedin.com/in/tanmoy-dednath/"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=22c55e" alt="LinkedIn"/></a>
+  <a href="mailto:tanmoydn2003@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=22c55e" alt="Email"/></a>
+  <a href="https://www.facebook.com/tanmoy.debnath.9699523"><img src="https://img.shields.io/badge/-Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=22c55e" alt="Facebook"/></a>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=TanmoyFRu&style=flat-square&color=22c55e&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=TanmoyFRu&style=flat-square&color=22c55e&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="60%">
-
-### About Me
+## About Me
 
 Backend developer at **Yupcha**, specialized in the intersection of automation, machine learning, and scalable cloud infrastructure. I design and build highly-efficient APIs, autonomous data pipelines, and intelligent computer vision systems using PyTorch and YOLO.
 
 With a strong foundation in ResNet architectures and DevOps practices, I focus on creating systems that are not just scalable — but self-optimizing.
 
-</td>
-<td valign="top" width="40%">
-
-### Current Focus
+## Current Focus
 
 ```text
 >  Deepening system design & architecture
@@ -41,70 +36,75 @@ With a strong foundation in ResNet architectures and DevOps practices, I focus o
 >  Understanding distributed systems
 ```
 
-</td>
-</tr>
-</table>
-
 ---
 
-### Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,js,c,cpp,bash,latex&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,js,c,cpp,bash,latex&theme=dark" alt="Languages" />
 
 **Backend & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark" alt="Backend" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,sass,css,html&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,sass,css,html&theme=dark" alt="Frontend" />
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" alt="Databases" />
 
 **DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,vercel,netlify,figma,linux,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,vercel,netlify,figma,linux,git&theme=dark" alt="DevOps Tools" />
 
 </div>
 
 ---
 
-### 3D Contribution Graph
+## 3D Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TanmoyFRu/TanmoyFRu/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+<img src="https://raw.githubusercontent.com/TanmoyFRu/TanmoyFRu/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" style="max-width: 100%; height: auto;" />
 
 </div>
 
 ---
 
-### Stats
+## Stats
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TanmoyFRu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=a1a1aa&ring_color=22c55e" height="165" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TanmoyFRu&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=a1a1aa" height="165" alt="Top Languages" style="max-width: 100%; height: auto;" />
+
+</div>
+
+<br/>
+
+<div align="center" style="max-width: 100%; overflow-x: auto;">
+
+<img src="https://streak-stats.demolab.com/?user=TanmoyFRu&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=a1a1aa&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=a1a1aa" alt="Streak Stats" style="max-width: 100%; height: auto;" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TanmoyFRu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=a1a1aa&ring_color=22c55e" height="165" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TanmoyFRu&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=a1a1aa" height="165" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=TanmoyFRu&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=a1a1aa&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=a1a1aa" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanmoyFRu&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&area_color=22c55e20&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanmoyFRu&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&area_color=22c55e20&hide_border=true" width="100%" alt="Activity Graph" style="max-width: 100%; height: auto;" />
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=100&section=footer" width="100%" alt="footer"/>
 
 <div align="center">
 
