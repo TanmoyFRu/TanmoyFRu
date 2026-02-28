@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=140&section=header&text=Tanmoy Debnath&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=140&section=header&text=Tanmoy%20Debnath&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=68" width="100%"/>
 
 <div align="center">
 
 <a href="https://github.com/TanmoyFRu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22c55e&center=true&vCenter=true&random=false&width=520&lines=Backend Developer | Automation Engineer;Building+Scalable+Backend+Systems;Python+%7C+FastAPI+%7C+Docker+%7C+Kubernetes;Always+Learning+Something+New" width="100%" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22c55e&center=true&vCenter=true&random=false&width=520&lines=Backend%20Developer%20%7C%20Automation%20Engineer;Building+Scalable+Backend+Systems;Python+%7C+FastAPI+%7C+Docker+%7C+Kubernetes;Always+Learning+Something+New" width="100%" alt="Typing SVG" />
 </a>
 
 <br/>
