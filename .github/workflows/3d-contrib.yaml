@@ -25,12 +25,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Build README from template
+        run: python build_profile.py
+
       - name: Commit & Push
         run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git add -A .
           git diff --cached --quiet && exit 0
-          git commit -m "update 3d contribution graph"
+          git commit -m "update 3d contribution graph and build readme"
           git pull --rebase origin main
           git push
