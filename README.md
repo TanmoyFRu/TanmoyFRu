@@ -78,9 +78,9 @@ Backend developer at **Yupcha**, specialized in the intersection of automation, 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TanmoyFRu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=a1a1aa&ring_color=22c55e" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TanmoyFRu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=a1a1aa&ring_color=22c55e&count_private=true&include_all_commits=true" height="165" />
 <br/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TanmoyFRu&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=a1a1aa" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TanmoyFRu&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=a1a1aa&count_private=true" height="165" />
 
 <br/>
 <br/>

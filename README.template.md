@@ -78,9 +78,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username={{ user_github_username }}&show_icons=true&hide_border=true&bg_color={{ theme_bg_color }}&title_color={{ theme_title_color }}&icon_color={{ theme_icon_color }}&text_color={{ theme_text_color }}&ring_color={{ theme_ring_color }}" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username={{ user_github_username }}&show_icons=true&hide_border=true&bg_color={{ theme_bg_color }}&title_color={{ theme_title_color }}&icon_color={{ theme_icon_color }}&text_color={{ theme_text_color }}&ring_color={{ theme_ring_color }}&count_private=true&include_all_commits=true" height="165" />
 <br/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username={{ user_github_username }}&layout=compact&hide_border=true&bg_color={{ theme_bg_color }}&title_color={{ theme_title_color }}&text_color={{ theme_text_color }}" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username={{ user_github_username }}&layout=compact&hide_border=true&bg_color={{ theme_bg_color }}&title_color={{ theme_title_color }}&text_color={{ theme_text_color }}&count_private=true" height="165" />
 
 <br/>
 <br/>
