@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/TanmoyFRu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=520&lines=Backend+Developer+%7C+Automation+Engineer;Building+Scalable+Backend+Systems;Python+%7C+FastAPI+%7C+Docker+%7C+Kubernetes;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=520&lines=Backend+Developer+%7C+Automation+Engineer;Building+Scalable+Backend+Systems;Python+%7C+FastAPI+%7C+Docker+%7C+Kubernetes;Always+Learning+Something+New" width="100%" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,18 +19,13 @@
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="60%">
-
 ### About Me
 
 Backend developer at **Yupcha**, specialized in the intersection of automation, machine learning, and scalable cloud infrastructure. I design and build highly-efficient APIs, autonomous data pipelines, and intelligent computer vision systems using PyTorch and YOLO.
 
 With a strong foundation in ResNet architectures and DevOps practices, I focus on creating systems that are not just scalable — but self-optimizing.
 
-</td>
-<td valign="top" width="40%">
+---
 
 ### Current Focus
 
@@ -40,10 +35,6 @@ With a strong foundation in ResNet architectures and DevOps practices, I focus o
 >  Getting better at full-stack depth
 >  Understanding distributed systems
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -79,7 +70,7 @@ With a strong foundation in ResNet architectures and DevOps practices, I focus o
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TanmoyFRu/TanmoyFRu/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+<img src="https://raw.githubusercontent.com/TanmoyFRu/TanmoyFRu/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph" />
 
 </div>
 
@@ -90,11 +81,13 @@ With a strong foundation in ResNet architectures and DevOps practices, I focus o
 <div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TanmoyFRu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=a1a1aa&ring_color=22c55e" height="165" />
+<br/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TanmoyFRu&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=a1a1aa" height="165" />
 
 <br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com/?user=TanmoyFRu&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=a1a1aa&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=a1a1aa" />
+<img src="https://streak-stats.demolab.com/?user=TanmoyFRu&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=a1a1aa&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=a1a1aa" width="100%" />
 
 <br/>
 
