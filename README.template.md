@@ -28,10 +28,7 @@
 ### Current Focus
 
 ```text
->  Deepening system design & architecture
->  Exploring blockchain & smart contracts
->  Getting better at full-stack depth
->  Understanding distributed systems
+{{ current_focus }}
 ```
 
 ---
@@ -42,23 +39,23 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,js,c,cpp,bash,latex&theme=dark" />
+<img src="https://skillicons.dev/icons?i={{ tech_languages }}&theme=dark" />
 
 **Backend & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i={{ tech_backend }}&theme=dark" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,sass,css,html&theme=dark" />
+<img src="https://skillicons.dev/icons?i={{ tech_frontend }}&theme=dark" />
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i={{ tech_databases }}&theme=dark" />
 
 **DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,vercel,netlify,figma,linux,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i={{ tech_devops }}&theme=dark" />
 
 </div>
 
@@ -78,18 +75,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username={{ user_github_username }}&show_icons=true&hide_border=true&bg_color={{ theme_bg_color }}&title_color={{ theme_title_color }}&icon_color={{ theme_icon_color }}&text_color={{ theme_text_color }}&ring_color={{ theme_ring_color }}&count_private=true&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username={{ user_github_username }}&show_icons=true&hide_border=true&bg_color={{ theme_bg_color }}&title_color={{ theme_title_color }}&icon_color={{ theme_icon_color }}&text_color={{ theme_text_color }}&ring_color={{ theme_ring_color }}&count_private=true&include_all_commits=true&v={{ cache_bust }}" height="165" />
 <br/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username={{ user_github_username }}&layout=compact&hide_border=true&bg_color={{ theme_bg_color }}&title_color={{ theme_title_color }}&text_color={{ theme_text_color }}&count_private=true" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username={{ user_github_username }}&layout=compact&hide_border=true&bg_color={{ theme_bg_color }}&title_color={{ theme_title_color }}&text_color={{ theme_text_color }}&count_private=true&v={{ cache_bust }}" height="165" />
 
 <br/>
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user={{ user_github_username }}&hide_border=true&background={{ theme_bg_color }}&ring={{ theme_ring_color }}&fire={{ theme_primary_color }}&currStreakLabel={{ theme_primary_color }}&sideLabels={{ theme_text_color }}&currStreakNum=e5e5e5&sideNums=e5e5e5&dates={{ theme_text_color }}" width="100%" />
+<img src="https://streak-stats.demolab.com/?user={{ user_github_username }}&hide_border=true&background={{ theme_bg_color }}&ring={{ theme_ring_color }}&fire={{ theme_primary_color }}&currStreakLabel={{ theme_primary_color }}&sideLabels={{ theme_text_color }}&currStreakNum=e5e5e5&sideNums=e5e5e5&dates={{ theme_text_color }}&v={{ cache_bust }}" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username={{ user_github_username }}&bg_color={{ theme_bg_color }}&color={{ theme_primary_color }}&line={{ theme_primary_color }}&point=ffffff&area=true&area_color={{ theme_primary_color }}20&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username={{ user_github_username }}&bg_color={{ theme_bg_color }}&color={{ theme_primary_color }}&line={{ theme_primary_color }}&point=ffffff&area=true&area_color={{ theme_primary_color }}20&hide_border=true&v={{ cache_bust }}" width="100%"/>
 
 </div>
 

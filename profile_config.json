@@ -27,5 +27,18 @@
     "show_streak": true,
     "show_activity_graph": true,
     "graph_3d_file": "profile-night-green.svg"
+  },
+  "current_focus": [
+    "Deepening system design & architecture",
+    "Exploring blockchain & smart contracts",
+    "Getting better at full-stack depth",
+    "Understanding distributed systems"
+  ],
+  "tech_arsenal": {
+    "languages": "py,js,c,cpp,bash,latex",
+    "backend": "fastapi,flask,nodejs,express",
+    "frontend": "react,tailwind,sass,css,html",
+    "databases": "postgres,mongodb,mysql,redis",
+    "devops": "docker,kubernetes,githubactions,vercel,netlify,figma,linux,git"
   }
 }
