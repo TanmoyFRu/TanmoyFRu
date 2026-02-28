@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type={{ theme_capsule_render_type }}&color={{ theme_primary_color }}&height=140&section=header&text={{ user_name }}&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type={{ theme_capsule_render_type }}&color={{ theme_primary_color }}&height=140&section=header&text={{ user_name_url }}&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=68" width="100%"/>
 
 <div align="center">
 
 <a href="https://github.com/{{ user_github_username }}">
-  <img src="https://readme-typing-svg.demolab.com?font={{ theme_font }}&weight=600&size=20&pause=1000&color={{ theme_primary_color }}&center=true&vCenter=true&random=false&width=520&lines={{ user_bio_title }};Building+Scalable+Backend+Systems;Python+%7C+FastAPI+%7C+Docker+%7C+Kubernetes;Always+Learning+Something+New" width="100%" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font={{ theme_font }}&weight=600&size=20&pause=1000&color={{ theme_primary_color }}&center=true&vCenter=true&random=false&width=520&lines={{ user_bio_title_url }};Building+Scalable+Backend+Systems;Python+%7C+FastAPI+%7C+Docker+%7C+Kubernetes;Always+Learning+Something+New" width="100%" alt="Typing SVG" />
 </a>
 
 <br/>
