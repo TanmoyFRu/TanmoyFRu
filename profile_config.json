@@ -24,8 +24,9 @@
     "show_3d_graph": true,
     "show_stats": true,
     "show_top_langs": true,
-    "show_streak": true,
+    "show_metrics": true,
     "show_activity_graph": true,
+    "hero_activity_graph": true,
     "graph_3d_file": "profile-night-green.svg"
   },
   "current_focus": [

@@ -17,11 +17,23 @@
 
 </div>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username={{ user_github_username }}&bg_color={{ theme_bg_color }}&color={{ theme_primary_color }}&line={{ theme_primary_color }}&point=ffffff&area=true&area_color={{ theme_primary_color }}20&hide_border=true&v={{ cache_bust }}" width="100%"/>
+
 ---
 
 ### About Me
 
 {{ user_bio_description }}
+
+---
+
+### GitHub Metrics
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/{{ user_github_username }}?base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&habits=1&habits.facts=0&languages=1&languages.limit=8&languages.colors=github&languages.details=bytes-size%2C+percentage&config.timezone=Asia%2FKolkata&v={{ cache_bust }}" width="100%" />
+
+</div>
 
 ---
 
@@ -83,10 +95,6 @@
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user={{ user_github_username }}&hide_border=true&background={{ theme_bg_color }}&ring={{ theme_ring_color }}&fire={{ theme_primary_color }}&currStreakLabel={{ theme_primary_color }}&sideLabels={{ theme_text_color }}&currStreakNum=e5e5e5&sideNums=e5e5e5&dates={{ theme_text_color }}&v={{ cache_bust }}" width="100%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username={{ user_github_username }}&bg_color={{ theme_bg_color }}&color={{ theme_primary_color }}&line={{ theme_primary_color }}&point=ffffff&area=true&area_color={{ theme_primary_color }}20&hide_border=true&v={{ cache_bust }}" width="100%"/>
 
 </div>
 
