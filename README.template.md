@@ -17,23 +17,11 @@
 
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username={{ user_github_username }}&bg_color={{ theme_bg_color }}&color={{ theme_primary_color }}&line={{ theme_primary_color }}&point=ffffff&area=true&area_color={{ theme_primary_color }}20&hide_border=true&v={{ cache_bust }}" width="100%"/>
-
 ---
 
 ### About Me
 
 {{ user_bio_description }}
-
----
-
-### GitHub Metrics
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/{{ user_github_username }}?base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&habits=1&habits.facts=0&languages=1&languages.limit=8&languages.colors=github&languages.details=bytes-size%2C+percentage&config.timezone=Asia%2FKolkata&v={{ cache_bust }}" width="100%" />
-
-</div>
 
 ---
 
