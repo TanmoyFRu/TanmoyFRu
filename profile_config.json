@@ -1,0 +1,31 @@
+{
+  "user": {
+    "name": "Tanmoy Debnath",
+    "github_username": "TanmoyFRu",
+    "location": "Agartala, India",
+    "email": "tanmoydn2003@gmail.com",
+    "phone": "+91 87941 40550",
+    "linkedin": "tanmoy-dednath",
+    "facebook": "tanmoy.debnath.9699523",
+    "bio_title": "Backend Developer | Automation Engineer",
+    "bio_description": "Backend developer at **Yupcha**, specialized in the intersection of automation, machine learning, and scalable cloud infrastructure. I design and build highly-efficient APIs, autonomous data pipelines, and intelligent computer vision systems using PyTorch and YOLO."
+  },
+  "theme": {
+    "primary_color": "22c55e",
+    "bg_color": "0d1117",
+    "text_color": "a1a1aa",
+    "title_color": "22c55e",
+    "icon_color": "22c55e",
+    "ring_color": "22c55e",
+    "capsule_render_type": "waving",
+    "font": "Fira+Code"
+  },
+  "widgets": {
+    "show_3d_graph": true,
+    "show_stats": true,
+    "show_top_langs": true,
+    "show_streak": true,
+    "show_activity_graph": true,
+    "graph_3d_file": "profile-night-green.svg"
+  }
+}
