@@ -78,14 +78,14 @@ Backend developer at **Yupcha**, specialized in the intersection of automation, 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TanmoyFRu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=a1a1aa&ring_color=22c55e&count_private=true&include_all_commits=true&v=1772291666" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TanmoyFRu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=a1a1aa&ring_color=22c55e&count_private=true&include_all_commits=true&v=1772335132" height="165" />
 <br/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TanmoyFRu&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=a1a1aa&count_private=true&v=1772291666" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TanmoyFRu&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=a1a1aa&count_private=true&v=1772335132" height="165" />
 
 <br/>
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=TanmoyFRu&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=a1a1aa&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=a1a1aa&v=1772291666" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=TanmoyFRu&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=a1a1aa&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=a1a1aa&v=1772335132" width="100%" />
 
 </div>
 
